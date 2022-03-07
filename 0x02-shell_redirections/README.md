@@ -1,1 +1,1 @@
-0x02-shell_redirections
+counts the number of directories and sub-directories in the current directory
