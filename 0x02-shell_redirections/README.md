@@ -1,1 +1,1 @@
-Create a new file containing the text best school ending by a new line
+writes into the file ls_cwd_content the result of the command ls -la
