@@ -1,1 +1,1 @@
-duplicates the last line of the file iacta
+counts the number of directories and sub-directories in the current directory
