@@ -1,1 +1,1 @@
-lists environment variables
+creates an alias
