@@ -1,1 +1,1 @@
-Create a script that removes all letters c and C from input
+counts the number of directories and sub-directories in the current directory
