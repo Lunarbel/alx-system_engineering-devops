@@ -1,1 +1,1 @@
-counts the number of directories in the PATH
+prints all possible combinations of two letters, except oo
