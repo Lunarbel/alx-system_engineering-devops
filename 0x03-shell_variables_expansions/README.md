@@ -1,1 +1,1 @@
-creates an alias
+counts the number of directories in the PATH
